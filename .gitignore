@@ -1,0 +1,6 @@
+.DS_Store
+.claude/settings.local.json
+
+# Raw/source materials kept out of the public repo (brand docs, reference
+# screenshots, and original photos already processed into assets/)
+*.pdf
